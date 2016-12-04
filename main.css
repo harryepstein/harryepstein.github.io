@@ -17,15 +17,9 @@ a {
   text-decoration: none;
 }
 
-img {
-  max-width: 100%;
-  width: 50px;
-  height: 50px;
-  float: center;
-}
-
 body header a  img {
-  width: 40px;
+  width: 40px
+  height: 40px;
 }
 
 

@@ -67,7 +67,7 @@ FOOTER
 
 footer {
   font-size: 0.75em;
-  text-align: center;
+  text-align: auto;
   padding-top: 50px;
   color: #ccc;
 }
@@ -107,6 +107,8 @@ body {
 header {
   background: #6ab47b;
   border-color: #599a68;
+  padding-left: 20px;
+  padding-right: 30px;
 }
 
 /* nav background on mobile */
